@@ -1,0 +1,31 @@
+
+.tables{
+    border-collapse: collapse;
+    background-color: lightgoldenrodyellow;
+    width:600px;
+}
+
+.tables img{
+    border-radius: 10px;
+}
+
+.tables th{   
+    background-color: rgb(212, 17, 17);
+    color: white;
+    font-size: 20px;
+    height: 30px;
+}
+
+.tables th, td{
+    border: 2px solid black;
+    font-size: 18px;
+    margin: auto;
+}
+.tbody th{
+    border: 4px solid black;
+    background-color: lightgoldenrodyellow;
+    color: black;
+    font-weight: lighter;
+    align-items: left;
+    font-size: 18px;
+}
